@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FChess", "FChess\FChess.fsproj", "{920F99D0-B3D0-44A8-B3FC-250018E00618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920F99D0-B3D0-44A8-B3FC-250018E00618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920F99D0-B3D0-44A8-B3FC-250018E00618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920F99D0-B3D0-44A8-B3FC-250018E00618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920F99D0-B3D0-44A8-B3FC-250018E00618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3155EB5D-2F8A-4567-A66C-032644490E0B}
+	EndGlobalSection
+EndGlobal
